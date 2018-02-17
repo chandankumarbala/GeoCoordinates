@@ -43,7 +43,7 @@ var marker = new google.maps.Marker({position:myCenter});
 getLocation();
 </script>
 
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC7lyap4OR0VjgDkYjQKu6SxZT0pukXr_Q&callback=getLocation"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=********&callback=getLocation"></script>
 </html>
 
 
